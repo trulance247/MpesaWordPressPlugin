@@ -3,7 +3,7 @@
 # MpesaWordPressPlugin
 The new 2018 mpesa REST API implementation in form of a wordpress plugin.
 
-#FirstTest&Implementation will be done on the eazypr.net ecosystem
+#FirstTest&Implementation will be done on the eazypro.net ecosystem
 
 How it works
 
